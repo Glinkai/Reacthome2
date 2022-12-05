@@ -1,0 +1,19 @@
+[
+    {
+        "title":"Визовая поддержка клиентов",
+        "img":"./assets/icons/visa_footer.png"
+    },
+    {
+        "title":"Направления по всему миру",
+        "img":"./assets/icons/world_footer.png"
+    },
+    {
+        "title":"Сопровождение опытными гидами",
+        "img":"./assets/icons/hunter_footer.png"
+    },
+    {
+        "title":"Полное обеспечение снаряжением",
+        "img":"./assets/icons/bbq-footer.png"
+    }
+]
+
